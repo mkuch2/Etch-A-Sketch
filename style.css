@@ -1,3 +1,14 @@
+#btn{
+  border-radius: 10px;
+  border: none;
+  color: #edefde;
+  background-color:rgb(34, 77, 146);
+  font-style: bold;
+  padding: 10px 30px;
+  margin: 0 auto 5px;
+  display: block;
+}
+
 #container {
   border: 1px solid black;
   min-height: 100vh;
